@@ -1,0 +1,15 @@
+Primeiro commit
+
+git init
+git add .
+git commit -m "nome do commit"
+git remote add origin https://github.com/FabianoBS/AulaES6.git
+git push -u origin master
+
+
+
+Demais commits
+
+git add .
+git commit -m "nome do commit"
+git push
